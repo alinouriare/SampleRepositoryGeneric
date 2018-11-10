@@ -1,0 +1,13 @@
+c:\users\a.nouri\source\repos\Repository\ClientConsol\bin\Debug\ClientConsol.exe.config
+c:\users\a.nouri\source\repos\Repository\ClientConsol\bin\Debug\ClientConsol.exe
+c:\users\a.nouri\source\repos\Repository\ClientConsol\bin\Debug\ClientConsol.pdb
+c:\users\a.nouri\source\repos\Repository\ClientConsol\bin\Debug\Datalayer.dll
+c:\users\a.nouri\source\repos\Repository\ClientConsol\bin\Debug\EntityFramework.dll
+c:\users\a.nouri\source\repos\Repository\ClientConsol\bin\Debug\Datalayer.pdb
+c:\users\a.nouri\source\repos\Repository\ClientConsol\bin\Debug\Datalayer.dll.config
+c:\users\a.nouri\source\repos\Repository\ClientConsol\bin\Debug\EntityFramework.xml
+c:\users\a.nouri\source\repos\Repository\ClientConsol\obj\Debug\ClientConsol.csprojResolveAssemblyReference.cache
+c:\users\a.nouri\source\repos\Repository\ClientConsol\obj\Debug\ClientConsol.csproj.CoreCompileInputs.cache
+c:\users\a.nouri\source\repos\Repository\ClientConsol\obj\Debug\ClientConsol.csproj.CopyComplete
+c:\users\a.nouri\source\repos\Repository\ClientConsol\obj\Debug\ClientConsol.exe
+c:\users\a.nouri\source\repos\Repository\ClientConsol\obj\Debug\ClientConsol.pdb
